@@ -2,11 +2,7 @@ This project is a visual analysis of data from a fictional ride sharing company.
 
 First is a Bubble Plot that showcases the relationship between four key variables:
 
-Average Fare Per City
-Total Number of Rides Per City
-Total Number of Drivers Per City
-City Type (Urban, Suburban, Rural)
-
+Average fare per city, total number of rides per city, total number of drivers per city, city type (urban, suburban, rural)
 
 In addition, there are three pie charts:
 
