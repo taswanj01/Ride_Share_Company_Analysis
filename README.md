@@ -10,9 +10,6 @@ City Type (Urban, Suburban, Rural)
 
 In addition, there are three pie charts:
 
-Percentage of Total Fares by City Type
-Percentage of Total Rides by City Type
-Percentage of Total Drivers by City Type
-
+Percentage of total fares, total rides, total drivers by city type.
 
 Following is a quick written description of three observable trends based on the data.
